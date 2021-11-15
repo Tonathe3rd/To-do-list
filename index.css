@@ -1,0 +1,9 @@
+ .done{
+    text-decoration: line-through;
+}
+.undone{
+    text-decoration: none;
+}
+body{
+    background: linear-gradient(to right,  yellow, red );
+}
